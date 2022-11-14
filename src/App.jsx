@@ -5,7 +5,7 @@ function App () {
     <div className='App'>
       <main>
 
-        <h1>TikTok clone</h1>
+        <h1>TikTok clone prueba</h1>
       </main>
     </div>
   )
